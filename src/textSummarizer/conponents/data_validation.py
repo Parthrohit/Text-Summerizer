@@ -8,7 +8,7 @@ class DataValiadtion:
         self.config = config
 
 
-    
+
     def validate_all_files_exist(self)-> bool:
         try:
             validation_status = None
